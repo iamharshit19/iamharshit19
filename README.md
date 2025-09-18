@@ -36,11 +36,6 @@
 - Reached 94% intent classification accuracy on test data  
 - Tech: Python, TensorFlow, Keras, NLP, Streamlit  
 
----
-
-## 📈 GitHub Stats  
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamharshit19&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamharshit19&layout=compact&theme=tokyonight)  
 
 ---
 
